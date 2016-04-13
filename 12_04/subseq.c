@@ -1,3 +1,9 @@
+/*
+*
+* Questões:
+* 1) Entenda e comente o código a seguir.
+* 2) Escreva uma função que calcula todas as permutações de um conjunto de numeros.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
